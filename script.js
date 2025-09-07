@@ -34,7 +34,7 @@ let songs = [
   { song_name: "Honeypie", author_name: "Jawny", file_path: "Honeypie.mp4", tn_path: "Honeypie tn.jpg" },
   { song_name: "Hurts So Good", author_name: "Astrid S", file_path: "Hurts So Good.mp4", tn_path: "Hurts So Good tn.jpg" },
   { song_name: "Let Go", author_name: "Ark Patrol", file_path: "Let Go.mp4", tn_path: "Let Go tn.jpg" },
-  { song_name: "Let It Happen", author_name: "Tame Impala", file_path: "Let It Happen.mp4", tn_path: "Let It Happen tn.jpg" },
+  { song_name: "Let It Happen (long)", author_name: "Tame Impala", file_path: "Let It Happen.mp4", tn_path: "Let It Happen tn.jpg" },
   { song_name: "Lost Soul", author_name: "NBSPLV", file_path: "Lost Soul.mp4", tn_path: "Lost Soul tn.jpg" },
   { song_name: "Love Me Again", author_name: "John Newman", file_path: "Love Me Again.mp4", tn_path: "Love Me Again tn.jpg" },
   { song_name: "Lovers Rock", author_name: "TV Girl", file_path: "Lovers Rock.mp4", tn_path: "Lovers Rock tn.png" },
