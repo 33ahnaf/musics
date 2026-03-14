@@ -36,8 +36,8 @@ export const lyricss = {
     "Let It Happen (long)": `
 [00:27.62]It's always around me, all this noise, but
 [00:33.34]Not nearly as loud as the voice saying
-[00:39.05]"Let it happen, let it happen"
-[00:44.63]"Just let it happen, let it happen"
+[00:39.05]Let it happen, let it happen
+[00:44.63]Just let it happen, let it happen
 [00:56.89]All this running around
 [01:00.65]Trying to cover my shadow
 [01:04.48]An ocean growing inside
